@@ -1,4 +1,4 @@
-# General Virtual Sketching Framework for Vector Line Art
+# General Virtual Sketching Framework
 
 This code is used for **line drawing vectorization**, **rough sketch simplification** and **photograph to vector line drawing**.
 

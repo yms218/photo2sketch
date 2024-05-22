@@ -2,10 +2,6 @@
 
 This code is used for **line drawing vectorization**, **rough sketch simplification** and **photograph to vector line drawing**.
 
-<img src='docs/figures/muten.png' height=300><img src='docs/figures/muten-black-full-simplest.gif' height=300>
-
-<img src='docs/figures/rocket.png' height=150><img src='docs/figures/rocket-blue-simplest.gif' height=150>&nbsp;&nbsp;&nbsp;&nbsp;<img src='docs/figures/1390.png' height=150><img src='docs/figures/face-blue-1390-simplest.gif' height=150>
-
 ## Outline
 - [Dependencies](#dependencies)
 - [Testing with Trained Weights](#testing-with-trained-weights)
